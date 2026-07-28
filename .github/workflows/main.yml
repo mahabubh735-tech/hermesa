@@ -10,7 +10,7 @@ concurrency:
 env:
   RUN_MINUTES: 330
   HERMES_HOME: /home/runner/.hermes
-  DATA_REPO: jahid12525/harmesprivatestorage
+  DATA_REPO: mahabubh735-tech/harmesprivatestorage
 
 jobs:
   run-agent:

@@ -21,7 +21,7 @@ concurrency:
 env:
   # Bangladesh time everywhere: runner shell, python, desktop clock, logs
   TZ: Asia/Dhaka
-  RUN_MINUTES: 330
+  RUN_MINUTES: 350
   # optional manual-run override, raw hours string (may be empty)
   RUN_HOURS_INPUT: ${{ github.event.inputs.run_hours }}
   HERMES_HOME: /home/runner/.hermes
